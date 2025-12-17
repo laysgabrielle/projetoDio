@@ -139,7 +139,7 @@ body#hermione-hovered::before {
 }
 
 body#ron-hovered::before {
-    background-image: url('../imagens/pngwing.com.png');
+    background-image: url('../imagens/expresso.jpg');
 }
 
 body[id^="harry-potter"]::before{
